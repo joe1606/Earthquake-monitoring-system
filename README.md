@@ -68,7 +68,7 @@ The following languages/softwares are required for this project. Things assigned
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/danfh00/vodnik-plant-health-monitor.git
+    git clone https://github.com/joe1606/Earthquake-monitoring-system.git
     ```
 
 2. **Create and activate a virtual environment (optional but recommended)**:
